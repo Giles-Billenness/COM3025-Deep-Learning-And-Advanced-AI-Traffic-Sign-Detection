@@ -5,3 +5,5 @@ Coursework created for the COM3025 Deep Learning And Advanced AI module during m
 This project was done in python using the MMCV framework. Google Colab was the enviorment used during this project.
 
 In this project, our team experimented with and evaluated several state-of-the-art object detection methodologies (Faster-RCNN with Resnet50, Faster-RCNN with SWIN transformer, YOLO with DarkNet53, and DETR with Resnet50) for the identification and segmentation of European road signs using the Mapillary traffic sign dataset.
+
+This repo contains the custom configs for the architectures used, custom object detection evaluation code, dataset preparation code and two implementation files, one for SWIN with the other for the rest.
